@@ -5,7 +5,7 @@
 
 ### Aggiungi suoni
 
-- salva i suoni come nella cartella sounds/
+- salva i suoni nella cartella sounds/
 - rinomina i file seguendo i nomi dei tasti
 - rimuovi commento `// audio.play()` in `script.js`
 - premi uno dei tasti a schermo per sentire il suono
