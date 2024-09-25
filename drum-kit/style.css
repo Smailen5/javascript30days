@@ -36,10 +36,10 @@ section {
   text-transform: uppercase;
   border-radius: 0.4rem;
   min-width: 5rem;
-  cursor: pointer;
+  user-select: none;
 }
 
-.button > div {
+.button > kbd {
   color: white;
   font-size: x-large;
 }
@@ -47,4 +47,12 @@ section {
 .sound {
   color: orange;
   font-size: x-small;
+}
+
+p {
+  font-size: x-large;
+  color: white;
+  background-color: black;
+  padding: 1rem;
+  border-radius: .4rem;
 }
